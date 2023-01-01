@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AshkanAnousheh
 - 👀 I’m interested in C/C++ Programming and Embedded Devices
-- 🌱 I’m currently learning C++, Linux
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, Linux, Socket
 - 📫 How to reach me Ashkan.Anousheh@gmail.com
 
 <!---
